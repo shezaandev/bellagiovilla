@@ -1,0 +1,6 @@
+{
+  "name": "Bellagio Villa Lonavala",
+  "description": "A premium boutique single-page luxury villa website for Bellagio Villa, a private 3BHK retreat in Lonavala, Maharashtra, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
